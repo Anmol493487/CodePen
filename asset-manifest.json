@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://anmol493487.github.io/csb-ml6v98/static/css/main.7d2118c4.chunk.css",
+    "main.js": "https://anmol493487.github.io/csb-ml6v98/static/js/main.fce47317.chunk.js",
+    "main.js.map": "https://anmol493487.github.io/csb-ml6v98/static/js/main.fce47317.chunk.js.map",
+    "runtime-main.js": "https://anmol493487.github.io/csb-ml6v98/static/js/runtime-main.422acf84.js",
+    "runtime-main.js.map": "https://anmol493487.github.io/csb-ml6v98/static/js/runtime-main.422acf84.js.map",
+    "static/css/2.16d56f53.chunk.css": "https://anmol493487.github.io/csb-ml6v98/static/css/2.16d56f53.chunk.css",
+    "static/js/2.c8da4f27.chunk.js": "https://anmol493487.github.io/csb-ml6v98/static/js/2.c8da4f27.chunk.js",
+    "static/js/2.c8da4f27.chunk.js.map": "https://anmol493487.github.io/csb-ml6v98/static/js/2.c8da4f27.chunk.js.map",
+    "index.html": "https://anmol493487.github.io/csb-ml6v98/index.html",
+    "precache-manifest.c7269c44755452eaf9d647bbb69f55f6.js": "https://anmol493487.github.io/csb-ml6v98/precache-manifest.c7269c44755452eaf9d647bbb69f55f6.js",
+    "service-worker.js": "https://anmol493487.github.io/csb-ml6v98/service-worker.js",
+    "static/css/2.16d56f53.chunk.css.map": "https://anmol493487.github.io/csb-ml6v98/static/css/2.16d56f53.chunk.css.map",
+    "static/css/main.7d2118c4.chunk.css.map": "https://anmol493487.github.io/csb-ml6v98/static/css/main.7d2118c4.chunk.css.map",
+    "static/js/2.c8da4f27.chunk.js.LICENSE.txt": "https://anmol493487.github.io/csb-ml6v98/static/js/2.c8da4f27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.422acf84.js",
+    "static/css/2.16d56f53.chunk.css",
+    "static/js/2.c8da4f27.chunk.js",
+    "static/css/main.7d2118c4.chunk.css",
+    "static/js/main.fce47317.chunk.js"
+  ]
+}
